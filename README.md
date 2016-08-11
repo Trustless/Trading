@@ -2,7 +2,7 @@
 
 Token Management for Humans. 
 
-Trustless Token Management provides an Ethereum blockchain user an automated interface for minting, monitoring, modifying and marketing any number of approved tokens. 
+Trustless Token Management provides an Ethereum blockchain user an automated interface for minting, monitoring, or manipulating any number of approved tokens. 
 
 ## Token Libraries
 
