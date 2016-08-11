@@ -1,8 +1,8 @@
 # Trustless Token Management Information System (TTMIS)
 
-Token Management for Humans. 
+Token Management for Humans... and others. 
 
-Trustless Token Management provides an Ethereum blockchain user an automated interface for minting, monitoring, or manipulating any number of approved tokens. 
+TTMIS provides an Ethereum blockchain user an automated interface for minting, monitoring, or manipulating any number of approved tokens. 
 
 ## Token Templates
 
