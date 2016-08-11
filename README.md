@@ -6,7 +6,7 @@ Trustless Token Management provides an Ethereum blockchain user an automated int
 
 ## Token Libraries
 
-Trustless Token Libraries are templates and components slated to build tokens derived from EIP #20 Standard Tokens. This is in the form of open source code initially released at github.
+Trustless Token Libraries are templates and components slated to build tokens derived from EIP #20 Standard Tokens. This is in the form of open source code initially released at github and heavily adopts and seeks to align with ConsenSys' development methodology.
 
 ## Token Registry
 
