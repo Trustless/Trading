@@ -4,7 +4,7 @@ Token Management for Humans.
 
 Trustless Token Management provides an Ethereum blockchain user an automated interface for minting, monitoring, modifying and marketing any number of approved tokens. 
 
-## Token Libraries
+## Token Libraries (TTL)
 
 Trustless Token Libraries are templates and components slated to build tokens derived from EIP #20 Standard Tokens. This is in the form of open source code initially released at github.
 
