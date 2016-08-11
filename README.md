@@ -1,4 +1,4 @@
-# Trustless Token Management System (TTMS)
+# Trustless Token Management Information System (TTMIS)
 
 Token Management for Humans. 
 
