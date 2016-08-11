@@ -20,12 +20,12 @@ A Top-level Token Registry may also be deployed to build essentially a registry 
 
 Trustless Token Factory is built to be deployed to the blockchain and will be one of the services which can be easily managed via a graphical user interface. 
 
-We forsee Tokens to ultimately act as a binary resource to be used in custom non-binary arrays. (Do you have this token and 100 of those tokens?) Tokens and 'token structs' would henseforth be used to fulfill a diverse set of various requirements including but not limited to assigning permissions, recognizing achievements or even storing value. This is the early relational database capability. For this reason our factory will ascribe Create, Read, Update and Destroy methods to deploy their tokens.  
+We forsee Tokens to ultimately act as a binary resource to be used in custom non-binary arrays. (Do you have this token and 100 of those tokens?) Tokens and 'token structs' would henseforth be used to fulfill a diverse set of various requirements including but not limited to assigning permissions, recognizing achievements or even storing value. This is the early relational database capability. For this reason our factory will consider Create, Read, Update and Destroy methods upon deployment of their tokens.  
 
 ## Token Accounting
 
 Trustless Token Accounting deploys a managed Top-level Token Registry for users to report from any number of registries, monitoring every assortment of tokens, and and accessing all of their registered available functions. 
 
-## Token Trading ** The ICO  **
+## Token Trading
 
-Trustless Token Trading (TTT)
+Trustless Token Trading (TTT) will allow Calls and Puts to be made as well as offer personal value rating systems for the tokens held in managed accounts. Essentially tokens you are placing to the market will be the preferred tokens spent and the tokens you are looking to buy become the tokens you prefer to recieve for services. 
