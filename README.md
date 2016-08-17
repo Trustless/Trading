@@ -12,7 +12,7 @@ Trustless Token Templates include libraries and components slated to build token
 
 Trustless Token Registry is derived from EIP #22 Standard Token Registries which is based on blockchain-side namespaces. https://github.com/ethereum/EIPs/issues/22
 
-Tokens generated at a Token Factory will be able to automatically register via that Factory's Registry. This saves time, reduces errors, and accomodate other human friendly features such as automatic updating. 
+Tokens generated at a Token Factory will be able to automatically register via that Factory's Registry. This saves time, reduces errors, and accomodate other human friendly features such as automated Accounting. 
 
 Tokens not deployed by a Token Factory may be registered directly by way of code pattern validation (expensive).
 
