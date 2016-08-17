@@ -6,17 +6,15 @@ TTMIS provides an Ethereum blockchain user an automated interface for minting, m
 
 ## Token Templates
 
-Trustless Token Templates include libraries and components slated to build tokens derived from EIP #20 Standard Tokens; the original token template: Token.sol. This is a github repo.
+Trustless Token Templates include libraries and components slated to build tokens derived from EIP #20 Standard Tokens (https://github.com/ethereum/EIPs/issues/20); the original token template: Token.sol. This is a github repo.
 
 ## Token Registry
 
-Trustless Token Registry is derived from EIP #22 Standard Token Registries which is based on blockchain-served namespaces. 
+Trustless Token Registry is derived from EIP #22 Standard Token Registries which is based on blockchain-side namespaces. https://github.com/ethereum/EIPs/issues/22
 
 Tokens generated at a Token Factory will be able to automatically register via that Factory's Registry. This saves time, reduces errors, and accomodate other human friendly features such as automatic updating. 
 
 Tokens not deployed by a Token Factory may be registered directly by way of code pattern validation (expensive).
-
-A Top-level Token Registry may also be deployed to essentially manage a registry of registries.
 
 ## Token Factory
 
@@ -28,7 +26,7 @@ With strategic use of standard functions we forsee early relational database cap
 
 ## Token Accounting
 
-Trustless Token Accounting deploys a managed Top-level Token Registry to report on any number of registries, monitor every assortment of tokens, and access their registered available functions. 
+Trustless Token Accounting deploys a managed Top-level Token Registry to report on any number of registries, monitor every assortment of tokens, and access their metadata. 
 
 ## Token Trading
 
