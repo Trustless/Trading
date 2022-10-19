@@ -38,4 +38,4 @@ Trustless Token Wallet is a GUI (graphical user interface) which offer intuitive
 
 ## Token Templates
 
-[Trustless Token Templates](./templates) include libraries and components slated to build tokens derived from EIP #20, EIP #721, EIP #777, and EPI #1155 Standard Tokens.
+[Trustless Token Templates](./templates) include libraries and components slated to build tokens derived from EIP #20, EIP #721, and EPI #1155 Standard Tokens.
