@@ -1,12 +1,14 @@
 # Trustless Token Management Information System (TTMIS)
 
-Token Management for Humans... and otherwise. 
+### Token Management for Humans... and otherwise. 
 
-TTMIS provides an Ethereum blockchain user an automated interface for minting, monitoring, or manipulating any number of approved tokens. This is in the form of open source code initially managed at github which heavily adapts from open source code originally developed by ConsenSys, Ethereum, and others working on the Ethereum token solutions.
+TTMIS provides the user an API for minting, monitoring, or manipulating any number of token styles: ERC20, ERC155, and beyond. 
+Heavily adapted from open source code originally developed by the Ethereum Community, research catalysed by ConsenSys, and security considerations by Open Zeppelin.
 
-## Token Templates
-
-Trustless Token Templates include libraries and components slated to build tokens derived from EIP #20 Standard Tokens (https://github.com/ethereum/EIPs/issues/20); the original token template: Token.sol. This is a github repo.
+/// ## Token Templates
+///
+/// Trustless Token Templates include libraries and components slated to build tokens derived from EIP #20 Standard Tokens (https://github.com/ethereum/EIPs/issues/20); 
+/// the original token template: Token.sol. This is an external github repo.
 
 ## Token Registry
 
@@ -20,13 +22,13 @@ Tokens not deployed by a Token Factory may be registered directly by way of code
 
 Trustless Token Factory is built to be Ethereum token minting-as-a-service residing completely on the blockchain, yet will be one of the services which can be accessibly managed via a graphical user interface. 
 
-Tokens can be used in a variety of creative and perhaps even innovative ways. Tokens and 'token data sets' could be used to fulfill a diverse set of various requirements including but not limited to assigning permissions, recognizing achievements or even storing value. 
+Tokens can be used in a variety of creative and perhaps even innovative ways. Tokens and 'token data sets' could be used to fulfill a diverse set of various requirements including but not limited to assigning permissions, recognizing achievements or attendance, and of course DeFi; NFTs, for example.. 
 
 With strategic use of standard functions we forsee early relational database capability. For this reason our factory will consider Create, Read, Update and Destroy methods upon deployment of their tokens.  
 
 ## Token Accounting
 
-Trustless Token Accounting deploys a managed Top-level Token Registry to report on any number of registries, monitor every assortment of tokens, and access their metadata. 
+Trustless Token Accounting deploys a managed Top-level Token Registry to report on any number of registries, monitor every assortment of tokens, and access their metadata URIs. 
 
 ## Token Trading
 
