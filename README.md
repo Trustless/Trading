@@ -2,8 +2,9 @@
 
 ### Token Management for Humans... and otherwise. 
 
-TTMIS provides the user an API for minting, monitoring, or manipulating any number of token styles: ERC20, ERC155, and beyond. 
-Heavily adapted from open source code originally developed by the Ethereum Community, research catalysed by ConsenSys, and security considerations by Open Zeppelin.
+TTMIS provides the user an API for minting, monitoring, or manipulating any number of token styles: ERC20, ERC155, and beyond. This aims to be the penultimate step in blockchain token management and we intend to use the community's feedback on this project to reach the final rung.
+
+Heavily adapted from open source code originally developed by the Ethereum Community especially Geordi B. (you know who you are), research catalysed by ConsenSys, bravery by Slock.it, and security considerations by Open Zeppelin namely: ERC20, TheDAO, MiniMe, ERC721, ERC777, and very notably the ERC1155.
 
 ## Token Templates
 
