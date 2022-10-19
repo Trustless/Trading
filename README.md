@@ -7,9 +7,9 @@ TTMIS provides the user an API for minting, monitoring, or manipulating any numb
 Heavily adapted from open source code originally developed by the Ethereum Community especially Geordi B. (you know who you are), research catalysed by ConsenSys, bravery by Slock.it, and security considerations by Open Zeppelin namely: ERC20, TheDAO, MiniMe, ERC721, ERC777, and very notably the ERC1155.
 
 
-## Token Factory
+## The Solidity
 
-Trustless Token Factory is built to be Ethereum token minting-as-a-service residing completely on the blockchain, yet will be one of the services which can be accessibly managed via a graphical user interface. 
+[Trustless Tokens](trustlessTokens.sol) is built to be Ethereum token minting-as-a-service residing completely on the blockchain, yet will be one of the services which can be accessibly managed via a graphical user interface. 
 
 Tokens can be used in a variety of creative and perhaps even innovative ways. Tokens and 'token data sets' could be used to fulfill a diverse set of various requirements including but not limited to assigning permissions, recognizing achievements or attendance, and of course DeFi; NFTs, for example.. 
 
