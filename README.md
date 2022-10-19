@@ -5,10 +5,10 @@
 TTMIS provides the user an API for minting, monitoring, or manipulating any number of token styles: ERC20, ERC155, and beyond. 
 Heavily adapted from open source code originally developed by the Ethereum Community, research catalysed by ConsenSys, and security considerations by Open Zeppelin.
 
-/// ## Token Templates
-///
-/// Trustless Token Templates include libraries and components slated to build tokens derived from EIP #20 Standard Tokens (https://github.com/ethereum/EIPs/issues/20); 
-/// the original token template: Token.sol. This is an external github repo.
+## Token Templates
+
+Trustless Token Templates include libraries and components slated to build tokens derived from EIP #20 Standard Tokens (https://github.com/ethereum/EIPs/issues/20); 
+the original token template: Token.sol. This is an external github repo.
 
 ## Token Registry
 
