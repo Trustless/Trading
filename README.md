@@ -6,18 +6,6 @@ TTMIS provides the user an API for minting, monitoring, or manipulating any numb
 
 Heavily adapted from open source code originally developed by the Ethereum Community especially Geordi B. (you know who you are), research catalysed by ConsenSys, bravery by Slock.it, and security considerations by Open Zeppelin namely: ERC20, TheDAO, MiniMe, ERC721, ERC777, and very notably the ERC1155.
 
-## Token Templates
-
-Trustless Token Templates include libraries and components slated to build tokens derived from EIP #20 Standard Tokens (https://github.com/ethereum/EIPs/issues/20); 
-the original token template: Token.sol. This is an external github repo.
-
-## Token Registry
-
-Trustless Token Registry is derived from EIP #22 Standard Token Registries which is based on blockchain-side namespaces. https://github.com/ethereum/EIPs/issues/22
-
-Tokens generated at a Token Factory will be able to automatically register via that Factory's Registry. This saves time, reduces errors, and accomodate other human friendly features such as automated Accounting. 
-
-Tokens not deployed by a Token Factory may be registered directly by way of code pattern validation (expensive).
 
 ## Token Factory
 
@@ -26,6 +14,15 @@ Trustless Token Factory is built to be Ethereum token minting-as-a-service resid
 Tokens can be used in a variety of creative and perhaps even innovative ways. Tokens and 'token data sets' could be used to fulfill a diverse set of various requirements including but not limited to assigning permissions, recognizing achievements or attendance, and of course DeFi; NFTs, for example.. 
 
 With strategic use of standard functions we forsee early relational database capability. For this reason our factory will consider Create, Read, Update and Destroy methods upon deployment of their tokens.  
+
+## Token Registry
+
+Trustless Token Registry is derived from EIP #22 Standard Token Registries which is based on blockchain-side namespaces. https://github.com/ethereum/EIPs/issues/22
+
+Tokens generated at a Token Factory will be able to automatically register via that Factory's Registry. This saves time, reduces errors, and accomodate other human friendly features such as automated Accounting. 
+
+Tokens not deployed by a Token Factory may be registered directly by way of code pattern validation (expensive) in order to achieve Trustless standing; however, any token with the proper API may register.
+
 
 ## Token Accounting
 
@@ -38,3 +35,7 @@ Trustless Token Trading (TTT) will allow Calls and Puts to be made as well as of
 ## Token Wallet
 
 Trustless Token Wallet is a GUI (graphical user interface) which offer intuitive human interaction with the Token Accounting, Token Factory and Token Trading functions.
+
+## Token Templates
+
+Trustless Token Templates include libraries and components slated to build tokens derived from EIP #20, EIP #721, EIP #777, and EPI #1155 Standard Tokens. This is an external github repo.
