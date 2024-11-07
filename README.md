@@ -2,7 +2,7 @@
 
 ### Token Management for Humans... and otherwise. 
 
-TTT provides the user an ABI for minting, monitoring, or manipulating any number of fungible (ERC20-like)or nonfungible token (NFTs) styles, even SBTs! This aims to be the penultimate step in blockchain token management and we intend to use the community's feedback on this project to reach the final rung.
+TTT provides the user an ABI for minting, monitoring, or managing fungible (ERC20-like) or non-fungible tokens (NFTs), even SBTs! We expect this to be a natural evolution in blockchain token management and we intend to use the community's feedback on this project to determine its future.
 
 Heavily adapted from open source code originally developed by the Ethereum Community and research catalysed by ConsenSys, bravery by Slock.it, and security considerations by Open Zeppelin.
 
