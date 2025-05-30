@@ -2,7 +2,7 @@
 
 ### Token Management for Humans... and otherwise. 
 
-TTT provides the user an ABI for minting, monitoring, or managing fungible (ERC20-like) or non-fungible tokens (NFTs), even SBTs! We expect this to be a natural evolution in blockchain token management and we intend to use the community's feedback on this project to determine its future.
+TTT provides the user an interface for minting, monitoring, or managing fungible (ERC20-like) or non-fungible tokens (NFTs), even SBTs! We expect this to be a natural evolution in blockchain token management and we intend to use the community's feedback on this project to determine its future.
 
 Heavily adapted from open source code originally developed by the Ethereum Community and research catalysed by ConsenSys, bravery by Slock.it, and security considerations by Open Zeppelin.
 
@@ -11,7 +11,7 @@ Heavily adapted from open source code originally developed by the Ethereum Commu
 
 [Trustless Tokens](trustlessTokens.sol) is built to be Ethereum token minting-as-a-service residing completely on the blockchain
 
-Tokens can be used in a variety of creative and perhaps even innovative ways. Tokens and 'token data sets' could be used to fulfill a diverse set of various requirements including but not limited to assigning permissions, recognizing achievements or attendance, and of course DeFi; NFTs, for example.. 
+Tokens can be used in a variety of creative and, perhaps even, innovative ways. Tokens and 'token data sets' could be used to fulfill a diverse set of various requirements including but not limited to assigning permissions, recognizing achievements or attendance, and of course DeFi; NFTs, for example.. 
 
 With strategic use of standard functions we forsee early relational database capability. For this reason our factory will consider Create, Read, Update and Destroy methods upon deployment of their tokens.  
 
